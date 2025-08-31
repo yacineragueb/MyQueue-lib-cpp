@@ -1,0 +1,5 @@
+*.user
+/x64
+/project-2
+/.vs
+
